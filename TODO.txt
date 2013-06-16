@@ -1,0 +1,37 @@
+TODO
+Headings機能の実装
+[done]input : input
+[done]=Title= : <h1>Ttile</h1>
+[done]= Title = : <h1>Ttile</h1>
+[done]=  Title  = : <h1>Ttile</h1>
+[done]= = :<h1></h1> 
+[]¥= TDD = : ¥= TDD =
+[]= TDD ¥= : = TDD ¥=
+[]=aaa : 
+[]aaa= :
+[]実装のリファクタリング
+[]テストコードのリファクタリング
+
+
+
+= Heading =
+== Subheading ==
+=== Level 3 ===
+==== Level 4 ====
+===== Level 5 =====
+====== Level 6 ======
+
+目標
+[]シンプルエンジンの機能
+[]何か入力すると何か返すメソッド
+[]変換方法はやっぱり正規表現
+[]保存はどうするの？
+
+お題
+Wikiエンジン
+
+Wikiエンジンを実装してみましょう
+https://code.google.com/p/support/wiki/Wikisyntax
+
+= TDDBC =
+<h1>TDDBC</h1>
