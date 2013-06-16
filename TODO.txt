@@ -5,14 +5,17 @@ Headings機能の実装
 [done]= Title = : <h1>Ttile</h1>
 [done]=  Title  = : <h1>Ttile</h1>
 [done]= = :<h1></h1> 
-[]¥= TDD = : ¥= TDD =
-[]= TDD ¥= : = TDD ¥=
-[]=aaa : 
-[]aaa= :
+[done]¥= TDD ¥= : = TDD =
+[done]= TDD ¥= : = TDD ¥=
+[done]=aaa : 
+[done]aaa= :
+
+
 []実装のリファクタリング
 []テストコードのリファクタリング
+[]途中で出てくるパターン= TDD = : <h1>TDD</h1>
 
-
+対応表
 
 = Heading =
 == Subheading ==
@@ -27,6 +30,7 @@ Headings機能の実装
 []変換方法はやっぱり正規表現
 []保存はどうするの？
 
+リファクタリング
 お題
 Wikiエンジン
 
